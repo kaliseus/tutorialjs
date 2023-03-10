@@ -1,0 +1,11 @@
+<% Controle de fluxo(if, for, while..) $>
+<%= imprime escapando os caracteres %>
+<%- imprime sem escapar os caracteres %>
+<# comentario #>
+<# include('') %> // inclue o arquivo
+
+<% if ( algumacoisa) {%>
+<%= console.log(algumacoisa) %>
+<% } else { %>
+<%= exibe outra coisa %>
+<% } %>

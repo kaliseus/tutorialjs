@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Miquel",
+    "Email":"miquer@email.com",
+    "salario": 27211,
+    "estado": "MG",
+    "empresa": "Facebook",
+    "idade": 34,
+    "sexo": "",
+    "cpf": 34124267258
+  },
+  {
+    "nome": "Sophia",
+    "Email":"sophia@empresa.com.br",
+    "salario": 6971,
+    "estado": "DF",
+    "empresa": "Plastic Co",
+    "idade": 25,
+    "sexo": "F",
+    "cpf": "43647318973"
+  },
+  {
+    "nome": "raquel",
+    "Email":"raquel@zimbra.com.br",
+    "salario": 2341,
+    "estado": "PR",
+    "empresa": "zimbra CO",
+    "idade": 27,
+    "sexo": "F",
+    "cpf": 75333612102
+  }
+]
